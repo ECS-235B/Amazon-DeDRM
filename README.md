@@ -1,6 +1,6 @@
 # Amazon-DeDRM: Empirical DRM Architecture Security Analysis
 
-This repository contains the empirical testing and simulation scripts developed for our university cybersecurity project analyzing the Digital Rights Management (DRM) architecture of the Amazon Kindle desktop client. 
+This repository contains the empirical testing and simulation scripts developed for our CIS project analyzing the Digital Rights Management (DRM) architecture of the Amazon Kindle desktop client. 
 
 Our threat modeling focuses on local credential storage vulnerabilities—specifically **CWE-284 (Improper Access Control)** and **CWE-321 (Use of Hard-coded Cryptographic Key)**—common in legacy and modern desktop DRM software. The scripts in this workspace act as proof-of-concept simulations demonstrating these weaknesses and validating our proposed engineering mitigations.
 
